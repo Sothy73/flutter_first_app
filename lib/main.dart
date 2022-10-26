@@ -1,11 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:realproperty/screens/Navbar.dart';
-import 'package:realproperty/screens/splash_screen.dart';
-import 'package:realproperty/screens/login.dart';
-import 'package:realproperty/screens/forget_passwrod.dart';
-import 'package:realproperty/screens/new_password.dart';
-import 'package:realproperty/screens/register.dart';
-import 'package:realproperty/screens/homepage.dart';
+import 'screens/homepage.dart';
 
 void main() {
   runApp(const MyApp());

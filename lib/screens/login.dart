@@ -1,7 +1,5 @@
 import 'dart:html';
-import 'package:realproperty/screens/forget_passwrod.dart';
 import 'package:flutter/material.dart';
-import 'package:realproperty/screens/forget_passwrod.dart';
 
 class loginPage extends StatefulWidget {
   const loginPage({Key? key}) : super(key: key);
